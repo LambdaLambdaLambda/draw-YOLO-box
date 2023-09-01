@@ -1,2 +1,2 @@
-NoMask
-Mask
+FD
+OTHER
